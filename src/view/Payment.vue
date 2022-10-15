@@ -1,0 +1,21 @@
+<template>
+  <section class="payment">
+    <Container>
+      <div class="payment__inner">
+        <PageHeader>Оплата</PageHeader>
+        <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, veniam, voluptatem! Ab alias amet asperiores, atque debitis deleniti fugiat ipsum neque nobis non quae tempora velit. Ducimus eaque ex ipsa libero optio sit vel voluptates? Ab, adipisci aperiam asperiores consequuntur dicta ea eaque est laboriosam nam odio officiis perferendis placeat possimus praesentium quam suscipit tenetur? Aliquam aspernatur atque dolor earum esse ex laudantium, libero minima mollitia nemo nesciunt perferendis quam quis quisquam, repudiandae, similique voluptatum. Architecto aut beatae blanditiis dicta eaque eligendi error eum, ex iusto neque perferendis quam quasi recusandae sit tempora vel voluptate voluptates! A adipisci aliquid amet assumenda culpa cum cupiditate debitis deleniti deserunt eaque et explicabo fugiat hic illum labore laboriosam magni maxime nemo nihil non nostrum omnis provident quam recusandae reiciendis rerum soluta tempore veritatis voluptates, voluptatibus? Accusamus amet asperiores, corporis, deleniti distinctio, explicabo laudantium natus nulla odit repellat soluta suscipit voluptate. Ad excepturi in inventore necessitatibus officiis quis vel velit veritatis? Animi asperiores aut, cupiditate est, eum expedita explicabo in maiores maxime minus nulla numquam odit pariatur quas recusandae rerum, saepe vitae? Aliquid, distinctio dolor earum, facilis incidunt ipsa libero minima mollitia provident quis, repellat repellendus sequi velit voluptas voluptate. Architecto id, nulla obcaecati perferendis quia quis repellendus. Blanditiis consequatur dolorem facere ipsam natus necessitatibus pariatur recusandae, similique! Adipisci beatae dolores dolorum, error esse exercitationem explicabo facilis ipsum nisi nulla, officia quos recusandae repellat saepe voluptas voluptate voluptatum! Accusantium aliquid assumenda blanditiis delectus dignissimos dolor doloribus dolorum ducimus earum eligendi, esse et ex facilis id laborum laudantium libero modi nam natus nemo nihil omnis perferendis porro quam quisquam quod repudiandae sapiente similique tempore ut? Autem distinctio maxime non pariatur rem similique, sint tempore. Ab architecto culpa debitis dolore ducimus eligendi, error illo in iure, nam necessitatibus neque porro quisquam rem sapiente, soluta vel vero voluptas. A aliquam cum dignissimos ducimus enim facere ipsum placeat provident repudiandae suscipit. Adipisci amet, aperiam asperiores error eum minima molestias officiis, provident quis ratione, sapiente sit soluta veniam. Accusantium adipisci assumenda blanditiis commodi in labore molestias optio, perspiciatis. Architecto culpa, est inventore magnam nesciunt officiis possimus quae rem. Aliquam atque aut, consequatur culpa eius illum impedit pariatur sed ut voluptates? Dicta distinctio dolorem dolores error fugiat in, ipsam magnam molestias nemo numquam omnis placeat quidem rerum, sequi, sint tempore veritatis vitae. Adipisci aspernatur at blanditiis commodi, consequatur debitis dicta dolores eligendi enim error explicabo facere fugit harum id inventore iusto labore maiores molestiae nemo nostrum obcaecati omnis provident quam quia quis repudiandae rerum similique soluta unde ut vero vitae, voluptas voluptatibus? Aperiam eveniet illum numquam, perferendis quaerat recusandae suscipit vel. Architecto nulla obcaecati quo. A consectetur dolore doloremque dolorum id laborum non optio reprehenderit. Adipisci consequuntur dolore dolorem, in qui reprehenderit repudiandae rerum ullam. Dolore eaque, est fuga fugit id laboriosam laudantium nostrum perspiciatis, porro ratione recusandae unde veritatis, vitae! Ab amet culpa dolor dolorem et exercitationem iusto sequi? Aperiam culpa cupiditate dolores ducimus est fugiat praesentium quod recusandae reprehenderit sint, velit veniam vero? Beatae ea id natus sit.</p>
+      </div>
+    </Container>
+  </section>
+</template>
+
+<script>
+import Container from "../components/UI/Container";
+export default {
+  components: {Container}
+}
+</script>
+
+<style lang="scss" scoped>
+
+</style>
